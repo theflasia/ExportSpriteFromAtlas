@@ -10,3 +10,6 @@
 # AtlasのInspector設定
 * Read/Write Enableにチェックを入れるのと
 * CompressionをNoneにしてください。
+
+# Unityバーション
+Unity 2018.2.6f1で動作確認
